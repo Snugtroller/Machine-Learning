@@ -1,2 +1,2 @@
 # Machine-Learning
-Combined works of ANN's and other ML models.
+Combined works of ANN's, CNN'sand other ML models.
